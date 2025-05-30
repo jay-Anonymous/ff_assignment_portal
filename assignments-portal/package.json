@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@heroicons/vue": "^2.0.18",
+    "@heroicons/vue": "^2.2.0",
     "canvas-confetti": "^1.9.3",
     "dayjs": "^1.11.10",
     "feather-icons": "^4.28.0",
