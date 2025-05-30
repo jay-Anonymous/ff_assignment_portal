@@ -16,7 +16,7 @@
     "frappe-ui": "^0.1.51",
     "markdown-it": "^14.1.0",
     "vue": "^3.3.0",
-    "vue-router": "^4.0.12"
+    "vue-router": "^4.5.1"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.0.0",
